@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Covid 19</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="andamento_nazionale">Nazione</string>
+    <string name="andamento_regionale">Regione</string>
+    <string name="ok">Ok</string>
+</resources>
